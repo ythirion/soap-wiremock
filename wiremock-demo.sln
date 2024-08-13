@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WireMock.SoapDemo", "WireMock.SoapDemo\WireMock.SoapDemo.csproj", "{EC687CF1-975D-489A-A8E5-612E6502160C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC687CF1-975D-489A-A8E5-612E6502160C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC687CF1-975D-489A-A8E5-612E6502160C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC687CF1-975D-489A-A8E5-612E6502160C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC687CF1-975D-489A-A8E5-612E6502160C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C891C770-59DA-49E0-B365-34A895EEB0F3}
+	EndGlobalSection
+EndGlobal
